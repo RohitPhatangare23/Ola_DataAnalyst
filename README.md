@@ -39,7 +39,7 @@ A comprehensive data analysis project on Ola ride data to extract actionable ins
 ### 📷 Overall
 ![Ride Demand Over Time](https://github.com/RohitPhatangare23/Ola_DataAnalyst/blob/master/DashBoard_Images/Overall.png)
 
-### 📷 Vichicle Type
+### 📷 Vehicle Type
 ![Pickup Locations](https://github.com/RohitPhatangare23/Ola_DataAnalyst/blob/master/DashBoard_Images/Vehicle_type.png)
 
 ### 📷 Revenue
