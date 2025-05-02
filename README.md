@@ -64,6 +64,6 @@ This project demonstrates how structured data from a ride-sharing platform like 
 For questions, collaborations, or suggestions:
 
 - 📧 Email: [rohitvrp23@gmail.com]
-- 💼 LinkedIn: [[your LinkedIn profile URL](https://www.linkedin.com/in/rohit-phatangare-769140208/)]
+- 💼 LinkedIn: [https://www.linkedin.com/in/rohit-phatangare-769140208/]
 
 
