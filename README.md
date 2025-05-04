@@ -37,19 +37,19 @@ A comprehensive data analysis project on Ola ride data to extract actionable ins
 ## 🖼️ Sample Visuals & Dashboard
 
 ### 📷 Overall
-![Ride Demand Over Time](https://github.com/RohitPhatangare23/Ola_DataAnalyst/blob/master/DashBoard_Images/Overall.png)
+![Ride Demand Over Time](https://github.com/RohitPhatangare23/Ola_DataAnalyst/blob/master/DashBoard_Images/OLA_Booking_Dashboard_page-0001.jpg)
 
 ### 📷 Vehicle Type
-![Pickup Locations](https://github.com/RohitPhatangare23/Ola_DataAnalyst/blob/master/DashBoard_Images/Vehicle_type.png)
+![Pickup Locations](https://github.com/RohitPhatangare23/Ola_DataAnalyst/blob/master/DashBoard_Images/OLA_Booking_Dashboard_page-0002.jpg)
 
 ### 📷 Revenue
-![Ride Duration](https://github.com/RohitPhatangare23/Ola_DataAnalyst/blob/master/DashBoard_Images/Revenue.png)
+![Ride Duration](https://github.com/RohitPhatangare23/Ola_DataAnalyst/blob/master/DashBoard_Images/OLA_Booking_Dashboard_page-0003.jpg)
 
 ### 📷 Cancellation
-![Dashboard Overview](https://github.com/RohitPhatangare23/Ola_DataAnalyst/blob/master/DashBoard_Images/Cancellation.png)
+![Dashboard Overview](https://github.com/RohitPhatangare23/Ola_DataAnalyst/blob/master/DashBoard_Images/OLA_Booking_Dashboard_page-0004.jpg)
 
 ### 📷 Rating
-![Ride Types](https://github.com/RohitPhatangare23/Ola_DataAnalyst/blob/master/DashBoard_Images/Rating.png)
+![Ride Types](https://github.com/RohitPhatangare23/Ola_DataAnalyst/blob/master/DashBoard_Images/OLA_Booking_Dashboard_page-0005.jpg)
 
 ---
 
