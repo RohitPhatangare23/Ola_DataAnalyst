@@ -15,9 +15,8 @@ A comprehensive data analysis project on Ola ride data to extract actionable ins
 
 ## 🛠️ Tools & Technologies Used
 
-- **Python** – For data cleaning, manipulation, and visualization (Pandas, NumPy, Matplotlib, Seaborn).
+- **MySql** –  For data analysis.
 - **Power BI** – For creating interactive and shareable dashboards.
-- **Jupyter Notebook** – For running EDA and documenting code and output.
 - **Excel/CSV** – For initial raw data handling and exploration.
 
 ---
@@ -26,7 +25,7 @@ A comprehensive data analysis project on Ola ride data to extract actionable ins
 
 - 🔹 Peak ride demand observed during office hours and weekends.
 - 🔹 Specific pickup and drop-off zones showed higher activity.
-- 🔹 Most rides fall into short to medium duration categories.
+- 🔹 Most rides fall into short to medium-duration categories.
 - 🔹 Shared rides saw more activity during late hours.
 - 🔹 Seasonal variations in user demand were observed.
 
